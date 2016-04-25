@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\obj\x86\Debug\MediatorPattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\obj\x86\Debug\MediatorPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\obj\x86\Debug\MediatorPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\bin\Debug\MediatorPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\MediatorPattern\bin\Debug\MediatorPattern.exe.lastcodeanalysissucceeded

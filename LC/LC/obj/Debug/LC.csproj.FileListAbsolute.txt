@@ -1,0 +1,8 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\bin\Debug\LC.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\bin\Debug\LC.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\bin\Debug\LC.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\obj\Debug\LC.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\obj\Debug\LC.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\bin\Debug\CommonClass.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LC\obj\Debug\LC.csprojResolveAssemblyReference.cache

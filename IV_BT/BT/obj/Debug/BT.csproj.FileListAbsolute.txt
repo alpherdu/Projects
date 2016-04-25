@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\bin\Debug\BT.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\bin\Debug\BT.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\bin\Debug\BT.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\obj\Debug\BT.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\obj\Debug\BT.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT\obj\Debug\BT.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\CommonClass\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\CommonClass\bin\Debug\CommonClass.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\CommonClass\obj\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\CommonClass\obj\Debug\CommonClass.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\CommonClass\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\CommonClass\bin\Debug\CommonClass.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\CommonClass\obj\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\CommonClass\obj\Debug\CommonClass.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\CommonClass\obj\Debug\CommonClass.csprojResolveAssemblyReference.cache

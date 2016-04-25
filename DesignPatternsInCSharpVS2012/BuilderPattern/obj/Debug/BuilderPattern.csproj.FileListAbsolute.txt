@@ -1,0 +1,12 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.Classes.Robot.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.Resources.Images.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\obj\Debug\BuilderPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\bin\Debug\BuilderPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\BuilderPattern\bin\Debug\BuilderPattern.exe.lastcodeanalysissucceeded

@@ -1,0 +1,3 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ProxyPattern\obj\x86\Debug\Proxy.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ProxyPattern\obj\x86\Debug\ProxyPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ProxyPattern\obj\x86\Debug\ProxyPattern.csproj.GenerateResource.Cache

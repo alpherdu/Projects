@@ -1,0 +1,12 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\bin\Debug\ControlLibrary.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.ClockForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\obj\x86\Debug\CompositePattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\bin\Debug\CompositePattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CompositePattern\bin\Debug\CompositePattern.exe.lastcodeanalysissucceeded

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV_Backtracking", "IV_Backtracking\IV_Backtracking.csproj", "{83F105A5-E49E-4798-AFF1-921A8CE99659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IV_BacktrackingUnitTestProject", "IV_BacktrackingUnitTestProject\IV_BacktrackingUnitTestProject.csproj", "{6DD4BAED-214A-411C-9563-E83CD16E6543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F105A5-E49E-4798-AFF1-921A8CE99659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F105A5-E49E-4798-AFF1-921A8CE99659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F105A5-E49E-4798-AFF1-921A8CE99659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F105A5-E49E-4798-AFF1-921A8CE99659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD4BAED-214A-411C-9563-E83CD16E6543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD4BAED-214A-411C-9563-E83CD16E6543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD4BAED-214A-411C-9563-E83CD16E6543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD4BAED-214A-411C-9563-E83CD16E6543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

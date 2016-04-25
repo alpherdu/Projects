@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\obj\Debug\IV_Graph_LightUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\bin\Debug\IV_Graph_LightUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\bin\Debug\IV_Graph_LightUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\bin\Debug\IV_Graph_Light.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\bin\Debug\IV_Graph_Light.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\obj\Debug\IV_Graph_LightUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_LightUnitTest\obj\Debug\IV_Graph_LightUnitTest.pdb

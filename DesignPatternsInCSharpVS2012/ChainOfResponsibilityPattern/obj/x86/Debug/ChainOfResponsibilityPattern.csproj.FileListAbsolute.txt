@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibility.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\obj\x86\Debug\ChainOfResponsibilityPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\ChainOfResponsibilityPattern\bin\Debug\ChainOfResponsibilityPattern.exe.lastcodeanalysissucceeded

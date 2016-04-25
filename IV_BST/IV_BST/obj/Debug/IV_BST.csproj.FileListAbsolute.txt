@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\bin\Debug\IV_BST.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\obj\Debug\IV_BST.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\bin\Debug\IV_BST.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\bin\Debug\IV_BST.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\obj\Debug\IV_BST.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\IV_BST\obj\Debug\IV_BST.pdb

@@ -1,0 +1,10 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\obj\Debug\CommandPattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\obj\Debug\CommandPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\obj\Debug\CommandPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\obj\Debug\CommandPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\bin\Debug\CommandPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\CommandPattern\bin\Debug\CommandPattern.exe.lastcodeanalysissucceeded

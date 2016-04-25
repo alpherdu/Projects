@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\obj\Debug\BSTUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\BSTUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\BSTUnitTestProject.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\IV_BST.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\IV_BST.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\obj\Debug\BSTUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BST\BSTUnitTestProject\obj\Debug\BSTUnitTestProject.pdb

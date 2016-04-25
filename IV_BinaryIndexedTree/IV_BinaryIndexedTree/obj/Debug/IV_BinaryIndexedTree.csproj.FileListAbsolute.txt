@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\bin\Debug\IV_BinaryIndexedTree.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\bin\Debug\IV_BinaryIndexedTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\bin\Debug\IV_BinaryIndexedTree.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\obj\Debug\IV_BinaryIndexedTree.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\obj\Debug\IV_BinaryIndexedTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTree\obj\Debug\IV_BinaryIndexedTree.pdb

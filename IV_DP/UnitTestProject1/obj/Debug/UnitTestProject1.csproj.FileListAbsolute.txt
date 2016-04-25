@@ -1,0 +1,16 @@
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\bin\Debug\IV.exe
+c:\Users\yanxued\documents\visual studio 2015\Projects\IV\UnitTestProject1\bin\Debug\IV.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\bin\Debug\IV.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\bin\Debug\IV.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_DP\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

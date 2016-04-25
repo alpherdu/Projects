@@ -1,0 +1,8 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\bin\Debug\EPI2015.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\bin\Debug\EPI2015.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\bin\Debug\EPI2015.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\obj\Debug\EPI2015.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\obj\Debug\EPI2015.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\obj\Debug\EPI2015.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015\bin\Debug\CommonClass.pdb

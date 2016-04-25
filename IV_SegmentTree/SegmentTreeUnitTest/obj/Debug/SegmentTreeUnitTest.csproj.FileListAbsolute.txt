@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\bin\Debug\SegmentTreeUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\bin\Debug\SegmentTreeUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\bin\Debug\IV_SegmentTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\bin\Debug\IV_SegmentTree.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\obj\Debug\SegmentTreeUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\obj\Debug\SegmentTreeUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\SegmentTreeUnitTest\obj\Debug\SegmentTreeUnitTest.pdb

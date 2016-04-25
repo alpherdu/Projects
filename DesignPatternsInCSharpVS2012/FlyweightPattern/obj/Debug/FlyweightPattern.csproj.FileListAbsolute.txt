@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\bin\FlyweightPattern.dll.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\bin\FlyweightPattern.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\bin\FlyweightPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\obj\Debug\FlyweightPattern.Images.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\obj\Debug\FlyweightPattern.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\bin\FlyweightPattern.dll.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FlyweightPattern\bin\FlyweightPattern.dll.lastcodeanalysissucceeded

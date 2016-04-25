@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\obj\Debug\TrieUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\bin\Debug\TrieUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\bin\Debug\TrieUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\bin\Debug\IV_Trie.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\bin\Debug\IV_Trie.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\obj\Debug\TrieUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\TrieUnitTest\obj\Debug\TrieUnitTest.pdb

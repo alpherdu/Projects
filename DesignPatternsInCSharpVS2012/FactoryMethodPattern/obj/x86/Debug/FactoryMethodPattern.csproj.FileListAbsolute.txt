@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\obj\x86\Debug\FactoryMethod.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\obj\x86\Debug\FactoryMethodPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.lastcodeanalysissucceeded

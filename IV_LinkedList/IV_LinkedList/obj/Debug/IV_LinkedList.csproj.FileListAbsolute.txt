@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\bin\Debug\IV_LinkedList.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\obj\Debug\IV_LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\bin\Debug\IV_LinkedList.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\bin\Debug\IV_LinkedList.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\obj\Debug\IV_LinkedList.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_LinkedList\IV_LinkedList\obj\Debug\IV_LinkedList.pdb

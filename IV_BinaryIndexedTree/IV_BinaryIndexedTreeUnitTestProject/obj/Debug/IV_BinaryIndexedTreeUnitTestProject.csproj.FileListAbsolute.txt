@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\IV_BinaryIndexedTreeUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\IV_BinaryIndexedTreeUnitTestProject.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\IV_BinaryIndexedTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\IV_BinaryIndexedTree.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\obj\Debug\IV_BinaryIndexedTreeUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\obj\Debug\IV_BinaryIndexedTreeUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BinaryIndexedTree\IV_BinaryIndexedTreeUnitTestProject\obj\Debug\IV_BinaryIndexedTreeUnitTestProject.pdb

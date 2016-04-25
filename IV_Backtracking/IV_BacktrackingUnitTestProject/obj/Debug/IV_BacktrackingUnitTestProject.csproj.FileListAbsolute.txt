@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\obj\Debug\IV_BacktrackingUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\bin\Debug\IV_BacktrackingUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\bin\Debug\IV_BacktrackingUnitTestProject.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\bin\Debug\IV_Backtracking.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\bin\Debug\IV_Backtracking.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\obj\Debug\IV_BacktrackingUnitTestProject.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Backtracking\IV_BacktrackingUnitTestProject\obj\Debug\IV_BacktrackingUnitTestProject.pdb

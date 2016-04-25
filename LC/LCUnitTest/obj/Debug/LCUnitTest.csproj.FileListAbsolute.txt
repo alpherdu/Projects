@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\LCUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\LCUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\LC.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\LC.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\obj\Debug\LCUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\obj\Debug\LCUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\obj\Debug\LCUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\LC\LCUnitTest\bin\Debug\CommonClass.pdb

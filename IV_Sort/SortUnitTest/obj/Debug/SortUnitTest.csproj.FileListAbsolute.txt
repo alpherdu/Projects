@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\bin\Debug\SortUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\bin\Debug\SortUnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\bin\Debug\IV_Sort.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\bin\Debug\IV_Sort.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\obj\Debug\SortUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\obj\Debug\SortUnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\SortUnitTest\obj\Debug\SortUnitTest.pdb

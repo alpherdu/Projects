@@ -1,0 +1,9 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\EPI2015UnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\EPI2015UnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\EPI2015.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\EPI2015.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\obj\Debug\EPI2015UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\obj\Debug\EPI2015UnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\obj\Debug\EPI2015UnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\CommonClass.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\EPI2015\EPI2015UnitTest\bin\Debug\CommonClass.pdb

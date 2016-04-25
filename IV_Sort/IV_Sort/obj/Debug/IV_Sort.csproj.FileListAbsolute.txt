@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\bin\Debug\IV_Sort.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\bin\Debug\IV_Sort.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\bin\Debug\IV_Sort.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\obj\Debug\IV_Sort.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\obj\Debug\IV_Sort.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Sort\IV_Sort\obj\Debug\IV_Sort.pdb

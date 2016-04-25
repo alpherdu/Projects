@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\bin\Debug\IV_SegmentTree.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\bin\Debug\IV_SegmentTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\bin\Debug\IV_SegmentTree.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\obj\Debug\IV_SegmentTree.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\obj\Debug\IV_SegmentTree.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_SegmentTree\IV_SegmentTree\obj\Debug\IV_SegmentTree.pdb

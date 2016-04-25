@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\bin\Debug\IV_Graph.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\bin\Debug\IV_Graph.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\bin\Debug\IV_Graph.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\obj\Debug\IV_Graph.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\obj\Debug\IV_Graph.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph\IV_Graph\obj\Debug\IV_Graph.pdb

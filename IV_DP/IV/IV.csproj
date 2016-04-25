@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D741785F-EF95-4190-B4CB-9D57E3170527}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IV</RootNamespace>
+    <AssemblyName>IV</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Set08-MatrixChainMultiplication.cs" />
+    <Compile Include="Set09-BinomialCoefficient.cs" />
+    <Compile Include="Set07-CoinChange.cs" />
+    <Compile Include="Set05-EditDistance.cs" />
+    <Compile Include="Set01-FibonacciNumbers.cs" />
+    <Compile Include="Set10-Knapsack_0_1.cs" />
+    <Compile Include="LargestSumContiguousSubarray.cs" />
+    <Compile Include="SEt04-LCS.cs" />
+    <Compile Include="Set03-LongestIncreasingSubsequence.cs" />
+    <Compile Include="Set11-EggDroppingPuzzle.cs" />
+    <Compile Include="Set12-LongestPalindromicSubsequence.cs" />
+    <Compile Include="Set14-MaximumSumIncreasingSubsequence.cs" />
+    <Compile Include="Set15-LongestBitonicSubsequence.cs" />
+    <Compile Include="Set17-PalindromePartitioning.cs" />
+    <Compile Include="Set29-LongestCommonSubstring.cs" />
+    <Compile Include="Set18-PartitionProblem.cs" />
+    <Compile Include="Set20-MaximumLengthChainOfPairs.cs" />
+    <Compile Include="Set32-WordBreakProblem.cs" />
+    <Compile Include="Set33-InterleaveOfTwoStrings.cs" />
+    <Compile Include="Solution.cs" />
+    <Compile Include="x Set25-SubsetSumProblem.cs" />
+    <Compile Include="Set36-MaximumProductCutting.cs" />
+    <Compile Include="Set06-MinCostPath.cs" />
+    <Compile Include="PaveWalkWay.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

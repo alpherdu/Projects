@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\bin\Debug\IV_Trie.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\bin\Debug\IV_Trie.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\bin\Debug\IV_Trie.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\obj\Debug\IV_Trie.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\obj\Debug\IV_Trie.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Trie\IV_Trie\obj\Debug\IV_Trie.pdb

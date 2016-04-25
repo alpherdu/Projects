@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\bin\Release\IV.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\bin\Release\IV.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\bin\Release\IV.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\obj\Release\IV.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\obj\Release\IV.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV\IV\obj\Release\IV.pdb

@@ -1,0 +1,11 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.Images.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\bin\Debug\DecoratorPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\DecoratorPattern\bin\Debug\DecoratorPattern.exe.lastcodeanalysissucceeded

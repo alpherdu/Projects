@@ -1,0 +1,6 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\bin\Debug\IV_Graph_Light.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\bin\Debug\IV_Graph_Light.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\bin\Debug\IV_Graph_Light.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\obj\Debug\IV_Graph_Light.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\obj\Debug\IV_Graph_Light.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_Graph_Light\IV_Graph_Light\obj\Debug\IV_Graph_Light.pdb

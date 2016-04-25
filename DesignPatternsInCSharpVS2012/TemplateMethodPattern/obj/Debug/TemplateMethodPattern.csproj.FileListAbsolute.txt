@@ -1,0 +1,11 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.Images.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.MainForm.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.Properties.Resources.resources
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.csproj.GenerateResource.Cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.CodeAnalysisLog.xml
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\DesignPatternsInCSharpVS2012\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.lastcodeanalysissucceeded

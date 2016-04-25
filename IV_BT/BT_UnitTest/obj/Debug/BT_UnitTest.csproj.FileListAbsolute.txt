@@ -1,0 +1,7 @@
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\bin\Debug\BT_UnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\bin\Debug\BT_UnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\obj\Debug\BT_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\obj\Debug\BT_UnitTest.dll
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\obj\Debug\BT_UnitTest.pdb
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\bin\Debug\BT.exe
+C:\Users\yanxued\Documents\Visual Studio 2015\Projects\IV_BT\BT_UnitTest\bin\Debug\BT.pdb
